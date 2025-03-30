@@ -1,4 +1,5 @@
 #version: '3'
+#docker при создании контейнеров ругается на переменную
 
 volumes:
   pg_data_production:
